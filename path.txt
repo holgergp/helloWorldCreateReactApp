@@ -1,8 +1,0 @@
-./node_modules/
-./src/App.css
-./src/App.js
-./src/App.test.js
-./src/favicon.ico
-./src/index.css
-./src/index.js
-./src/logo.svg
