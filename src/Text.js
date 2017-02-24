@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 let Text = (props) => <p>{props.greeter}</p>
 
